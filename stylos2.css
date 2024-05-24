@@ -27,16 +27,15 @@ body {
   border: 3px solid coral;
 }
 
-/* .box:only-of-type {
+.box:only-of-type {
   background-color: tomato;
 }
 
 
 .box:last-of-type {
   background-color: tomato;
-} */
+}
 
-
-.container:only-child {
+*/ .container:only-child {
   background-color: red;
 }
